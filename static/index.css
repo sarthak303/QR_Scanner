@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 12%, rgba(211,217,22,0.6629245448179272) 64%, rgba(6,27,170,1) 98%);
+}
+
+h1 {
+    text-align: center;
+}
+.info p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:200px;
+    font-size: 20px;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,176,45,0.49205619747899154) 100%);
+margin-top: 0;
+margin-bottom: 0;
+}
